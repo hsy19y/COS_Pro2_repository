@@ -9,10 +9,8 @@ int main()
     printf("%c\n", s1[5]);    
 
     s1[0] = 'A';           
- 
 
     printf("%c\n", s1[0]);
 
-  
     return 0;
 }
